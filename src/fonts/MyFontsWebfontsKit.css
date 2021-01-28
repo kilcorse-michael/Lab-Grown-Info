@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4000057, 2021-01-20T12:36:09-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: FrizQuadrataPro-Regular by ITC
+ * URL: https://www.myfonts.com/fonts/itc/friz-quadrata/pro-roman/
+ * Copyright: Copyright 2008 International Typeface Corporation. All Rights Reserved.
+ * 
+ * 
+ * 
+ * © 2021 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3d0939");
+  
+@font-face {
+  font-family: 'FrizQuadrataPro-Regular';
+  src: url('webFonts/FrizQuadrataPro-Regular/font.woff2') format('woff2'), url('webFonts/FrizQuadrataPro-Regular/font.woff') format('woff');
+}
+
